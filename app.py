@@ -1,4 +1,5 @@
 import chainlit as cl
+import chromadb
 from PyPDF2 import PdfReader
 from langchain_community.vectorstores import Chroma
 from langchain.chains import RetrievalQA 
