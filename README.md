@@ -9,4 +9,4 @@ Talk with your pdf by Google Generative AI and Langchain
 2. Start Chainlit web app.
   `chainlit app.py`
 
-3. Now you anr ready to chat 🎈🎈.
+3. Now you are ready to chat 🎈🎈.
