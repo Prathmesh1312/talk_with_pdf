@@ -7,6 +7,6 @@ Talk with your pdf by Google Generative AI and Langchain
   `pip install requirements.txt`
 
 2. Start Chainlit web app.
-  `chainlit app.py`
+  `chainlit run app.py`
 
 3. Now you are ready to chat 🎈🎈.
